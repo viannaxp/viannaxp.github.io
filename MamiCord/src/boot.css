@@ -5,7 +5,7 @@
 
 /*Version System*/
 :root {
-  --theme-version: "0.3.3a ";
+  --theme-version: "v0.1 ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
@@ -13,7 +13,7 @@
 }
 
 .info-3pQQBb:after {
-  content: "SpotiCord - "var(--theme-version);
+  content: "MamiCord - "var(--theme-version);
   top: 16px;
   color: var(--text-muted);
   position: relative;
@@ -32,7 +32,7 @@
 }
 
 .wordmarkWindows-2dq6rw:after {
-  content: "SpotiCord "var(--theme-version)" by Slddev";
+  content: "MamiCord by viannaxp";
   color: var(--text-muted);
   font-size: 12px;
   padding-left: 10px;
