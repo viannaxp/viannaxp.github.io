@@ -1,0 +1,266 @@
+/*User Info*/
+.panels-3wFtMD {
+    background-color: #181818;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 90px;
+    border-radius: 0px;
+    border-top: 1px solid #282828;
+    z-index: 99;
+    overflow: hidden scroll;
+}
+
+.panels-3wFtMD::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+}
+
+.panels-3wFtMD::-webkit-scrollbar-corner {
+    background-color: tranparent;
+}
+
+.panels-3wFtMD::-webkit-scrollbar-thumb,
+.panels-3wFtMD::-webkit-scrollbar-track {
+    border: 4px solid transparent;
+    background-clip: padding-box;
+    border-radius: 8px;
+}
+
+.panels-3wFtMD>.container-YkUktl {
+    z-index: 99;
+    position: fixed;
+    top: 3%;
+    height: 35px;
+    width: 225px;
+    right: 1%;
+    border-radius: 500px;
+    background-color: rgba(0, 0, 0, .7);
+    padding: 2px;
+    color: #fff !important;
+}
+
+.panels-3wFtMD>.container-YkUktl>.nameTag-sc-gpq>.size12-oc4dx4>.hoverRoll-2XwpoF {
+    display: none;
+}
+
+.panels-3wFtMD>.container-YkUktl>.nameTag-sc-gpq>.subtext-2HDqJ7 {
+    display: none;
+}
+
+.panels-3wFtMD:before {
+    content: "Sevesim.";
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    padding: 0px 60px;
+    position: relative;
+    top: 45%;
+}
+
+/*Call Buttons*/
+.panels-3wFtMD>.wrapper-3Hk9OB>.container-1zzFcN {
+    margin-top: -14px;
+    background-color: #181818;
+}
+
+/*Activity Area*/
+.activityPanel-9icbyU {
+    position: fixed;
+    bottom: 90px;
+    background-color: #181818;
+    width: 225px;
+}
+
+/*Text Area*/
+.button-y6hemj[disabled]>.innerButton-1aF_E_>.buttonChild-33lB5F,
+.buttonChild-33lB5F {
+    color: var(--interactive-normal);
+}
+
+.theme-dark .button-y6hemj:focus-within .activeButtonChild-2hgLAO,
+.theme-dark .button-y6hemj:focus .activeButtonChild-2hgLAO,
+.theme-dark .button-y6hemj:hover .activeButtonChild-2hgLAO {
+    color: var(--background-accent);
+}
+
+.base-3bcbY3 {
+    bottom: 2px;
+}
+
+.form-3gdLxP {
+    background-color: #181818;
+    min-height: 90px;
+    border-top: 1px solid #282828;
+    margin: 0;
+    max-width: 1335px;
+}
+
+.scrollableContainer-15eg7h {
+    border-radius: 23px;
+}
+
+.editor-H2NA06 {
+    color: #000;
+}
+
+.textAreaSlate-9-y-k2 {
+    height: 44px !important;
+}
+
+.channelTextArea-1FufC0 {
+    top: 20px;
+    background-color: transparent;
+}
+
+.wrapper-2SplAX {
+    margin-top: 14px;
+}
+
+.attachedBars-2BCP3l {
+    margin-top: -45px;
+    margin-bottom: 25px;
+    height: 20px;
+}
+
+.attachButtonInner-2mwer8 path {
+    fill: var(--background-accent);
+}
+
+.attachButton-_ACFSu:hover .attachButtonPlus-3IYelE {
+    fill: #323232;
+}
+
+.button-2fCJ0o:hover,
+.active-z80xEj .buttonWrapper-3YFQGJ,
+.buttonWrapper-3YFQGJ:hover {
+    color: #323232;
+}
+
+.button-12Fmur.enabled-9OeuTA:hover {
+    border-radius: 32px;
+}
+
+.slateTextArea-27tjG0 {
+    caret-color: #000;
+}
+
+.replyBar-1oi75v,
+.threadSuggestionBar-3ExSyc,
+.attachedBars-2BCP3l {
+    background: transparent;
+}
+
+.replyBar-1oi75v {
+    margin-top: -15px;
+}
+
+.actions-1mkm4H {
+    height: 40px;
+}
+
+.theme-dark .autocomplete-3NRXG8 {
+    background-color: var(--background-secondary)
+}
+
+.theme-dark .form-3gdLxP:before {
+    background: linear-gradient(180deg, rgba(54, 57, 63, 0) 0, #181818);
+}
+
+/*Header*/
+.toolbar-3_r2xA {
+    margin-right: 240px;
+}
+
+.title-31SJ6t {
+    z-index: 1;
+}
+
+/*Search*/
+.theme-dark .container-2McqkF {
+    background-color: var(--background-floating);
+}
+
+.option-ayUoaq {
+    width: 311.5px;
+}
+
+.option-ayUoaq:hover {
+    width: 280px;
+}
+
+/*   Tiny Search-bar   */
+.toolbar-3_r2xA .search-39IXmY {
+    order: -1;
+}
+
+.toolbar-3_r2xA .search-39IXmY .iconContainer-1RqWJj {
+    bottom: 4px;
+}
+
+.toolbar-3_r2xA .search-39IXmY .iconContainer-1RqWJj .icon-18rqoe {
+    transition: all 0.6s ease;
+}
+
+.toolbar-3_r2xA .search-39IXmY .search-2Mwzzq:not(.open-1F8u2c) .searchBar-jGtisZ {
+    width: 28px;
+    transition: all 0.6s ease-in-out;
+    background: none;
+}
+
+.toolbar-3_r2xA .search-39IXmY .search-2Mwzzq:not(.open-1F8u2c) .searchBar-jGtisZ .icon-18rqoe {
+    color: var(--interactive-normal);
+    height: 23px;
+    width: 23px;
+    margin-top: 1.76px;
+}
+
+.toolbar-3_r2xA .search-39IXmY .search-2Mwzzq.open-1F8u2c .searchBar-jGtisZ {
+    width: 240px;
+    background: var(--background-tertiary);
+    transition: all 0.6s ease-in-out;
+}
+
+.toolbar-3_r2xA .search-39IXmY .search-2Mwzzq.open-1F8u2c .searchBar-jGtisZ .icon-18rqoe {
+    height: 16px;
+    width: 16px;
+    top: 4px;
+}
+
+.iconLayout-SqV3nb {
+    cursor: pointer;
+}
+
+/*Create A Server and Public Servers*/
+.theme-light .root-g14mjS,
+.theme-light .footer-31IekZ,
+.theme-dark .pageWrapper-2PwDoS {
+    background: var(--background-primary);
+}
+
+/*Settings*/
+.sidebarRegion-1VBisG,
+.sidebarRegionScroller-FXiQOh {
+    justify-content: unset;
+    flex: unset
+}
+
+.contentColumn-1C7as6,
+.customColumn-2n-oKU,
+.hero-1aNo0v {
+    max-width: unset;
+}
+
+.accountProfileCard-lbN7n- {
+    max-width: 750px;
+}
+
+.notificationSettings-1U0JsJ {
+    max-width: 45%;
+}
+
+.theme-dark .paymentPane-ut5qKZ,
+.theme-dark .paginator-1eqD2g,
+.theme-dark .payment-2bOh4k,
+.theme-dark .codeRedemptionRedirect-3SBiCp {
+    background-color: var(--background-secondary);
+}
