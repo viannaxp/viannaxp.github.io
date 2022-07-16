@@ -1,0 +1,32 @@
+.theme-dark {
+  --text-normal: #f4f4f4;
+  --background-primary: #121212;
+  --background-secondary: #181818;
+  --background-secondary-alt: #282828;
+  --background-tertiary: #000;
+  --background-floating: #282828;
+  --background-accent: #1ed760;
+  --channeltextarea-background: #fff;
+  --interactive-normal: #b3b3b3;
+  --interactive-hover: #fff;
+  --deprecated-quickswitcher-input-background: #313131;
+}
+
+/*Ditch Light Theme*/
+.theme-light {
+  --header-primary: #fff;
+  --header-secondary: #f4f4f4;
+  --text-normal: #f4f4f4;
+  --background-primary: #121212;
+  --background-secondary: #181818;
+  --background-secondary-alt: #282828;
+  --background-tertiary: #000;
+  --background-floating: #282828;
+  --background-accent: #1ed760;
+  --channeltextarea-background: #fff;
+  --deprecated-quickswitcher-input-background: #313131;
+  --interactive-normal: #b3b3b3;
+  --interactive-hover: #fff;
+  --interactive-active: #fff;
+  --interactive-muted: #4f545c;
+}
